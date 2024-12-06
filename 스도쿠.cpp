@@ -70,13 +70,7 @@ int main()
         }
     }
 
-    for (pair<int, int> i : v)
-    {
-        int x = i.first;
-        int y = i.second;
-
-        solve(0);
-    }
+    solve(0);
 
     for (int i = 0; i < 9; i++)
     {
