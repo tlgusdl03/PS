@@ -3,6 +3,7 @@
 #include <vector>
 using namespace std;
 
+// prim 알고리즘
 int solve(int V, int E, auto &input)
 {
     int result = 0;
